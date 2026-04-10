@@ -48,14 +48,6 @@
     "priority": 5
   },
   {
-    "id": "maoyan",
-    "name": "🎬猫眼资源",
-    "baseUrl": "https://api.maoyanapi.top/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 5
-  },
-  {
     "id": "liangzi",
     "name": "🎬量子资源",
     "baseUrl": "https://cj.lzcaiji.com/api.php/provide/vod",
@@ -152,6 +144,14 @@
     "priority": 5
   },
   {
+    "id": "uku",
+    "name": "🎬U酷影视",
+    "baseUrl": "https://api.ukuapi88.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 5
+  },
+  {
     "id": "hongniu",
     "name": "🎬红牛资源",
     "baseUrl": "https://www.hongniuzy2.com/api.php/provide/vod",
@@ -174,13 +174,5 @@
     "group": "normal",
     "enabled": true,
     "priority": 5
-  },
-  {
-    "id": "uku",
-    "name": "🎬U酷影视",
-    "baseUrl": "https://api.ukuapi88.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 10
   }
 ]
