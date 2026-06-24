@@ -144,14 +144,6 @@
     "priority": 5
   },
   {
-    "id": "dbzy",
-    "name": "🎬豆瓣资源",
-    "baseUrl": "https://caiji.dbzy5.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 5
-  },
-  {
     "id": "feifan",
     "name": "🎬非凡资源",
     "baseUrl": "https://api.ffzyapi.com/api.php/provide/vod",
